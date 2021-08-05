@@ -2,13 +2,13 @@ module.exports = {
   purge: ["./src/**.html"],
   darkMode: "media",
   theme: {
-    colors: {
-      ...require("tailwindcss/colors"),
-      bgGray: {
-        DEFAULT: "#0b0b0c",
-      },
-    },
     extend: {
+      colors: {
+        ...require("tailwindcss/colors"),
+        bgGray: {
+          DEFAULT: "#0b0b0c",
+        },
+      },
       borderRadius: {
         xl: "2rem",
       },
