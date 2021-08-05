@@ -1,2 +1,0 @@
-I"G<p><a href="https://ospfranco.github.io/cidemon">CI Demon</a> is an app I created to monitor my CI builds and deployments from my macOS desktop. It works based on tokens to authenticate with the CI providers APIs. Sometimes to generate this tokens is not quite straightforward, so here is a simple guide for github tokens.</p>
-:ET

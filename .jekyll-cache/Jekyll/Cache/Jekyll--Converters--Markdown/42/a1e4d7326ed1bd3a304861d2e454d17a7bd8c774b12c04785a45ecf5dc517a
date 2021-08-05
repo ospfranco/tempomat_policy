@@ -1,2 +1,0 @@
-I"><p>Analytics are commonplace (even a requirement) and, despite time passing by, Redux is still widely used. So here is a small concept that might super charge your analytics game. Instead of sending custom analytic events to create your user funnels, directly hook up your redux actions to your analytics service.</p>
-:ET

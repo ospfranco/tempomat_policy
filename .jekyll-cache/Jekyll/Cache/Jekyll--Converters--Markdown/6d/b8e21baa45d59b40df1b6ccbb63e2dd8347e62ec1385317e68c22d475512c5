@@ -1,2 +1,0 @@
-I"�<p>JSI is a new translation layer between the JavaScript and C++, it’s implemented on the JS engine itself and it’s a lot faster than the React-Native bridge. This is step-by-step guide to creating a basic JSI module.</p>
-:ET
